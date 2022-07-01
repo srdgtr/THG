@@ -151,6 +151,7 @@ terheegde_info_db = terheegde_info[
         "product_title",
         "lange_omschrijving",
         "verpakings_eenheid",
+        "lk"
     ]
 ]
 
